@@ -1,0 +1,11 @@
+{
+  "name": "hermes-grok-bridge",
+  "version": "0.3.0",
+  "description": "stdio MCP server: a Grok Bot chat as a thin window into a Hermes agent's Bot Chat",
+  "type": "module",
+  "main": "server.mjs",
+  "bin": { "hermes-grok-bridge": "server.mjs" },
+  "engines": { "node": ">=20" },
+  "license": "MIT",
+  "dependencies": {}
+}

@@ -1,0 +1,6 @@
+{
+  "default_session_id": "<YOUR_BOT_CHAT_SESSION_ID>",
+  "default_profile": "default",
+  "transport": "peer_rest",
+  "default_author": { "name": "Grok chat", "id": "grok-chat" }
+}
